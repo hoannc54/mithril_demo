@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+/.DS_Store
+/Thumbs.db
+/*.sublime-project
+/*.sublime-workspace
+.idea
+.DS_Store
